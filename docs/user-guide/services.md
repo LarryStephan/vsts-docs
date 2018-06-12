@@ -69,7 +69,7 @@ From the **Work** hub you gain access to Agile tools to support planning and tra
 
 <img src="_img/services/work-hub-backlogs.png" alt="Work hub, Backlogs page" style="border: 2px solid #C3C3C3;" />
 
-Specifically, from the **Work** you can perform these tasks:
+Specifically, from the **Work** hub you can perform these tasks:
 
 - Add and update work items 
 - Define work item queries and create status and trend charts based on those queries 			
